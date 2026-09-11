@@ -5,7 +5,7 @@ I'm interested in technology, automation, and building things that make everyday
 ## Things I'm Into
 
 - Home Assistant
-- Docker & self-hosted applications
+- Docker & self-hosting
 - Networking & infrastructure
 - APIs & integrations
 - VPNs & remote access
@@ -14,19 +14,11 @@ I'm interested in technology, automation, and building things that make everyday
 
 ## My Home Lab
 
-I run a small home lab focused on self-hosting, automation, networking, and media.
+I run a small home lab focused on automation, self-hosting, networking, and media.
 
-Some of the things I work with:
+**Tech I work with:**
 
-- Home Assistant
-- Docker
-- Raspberry Pi
-- Mac mini
-- NAS / network storage
-- Firewalla
-- UniFi networking
-- Apple Home
-- Philips Hue
+Home Assistant · Docker · Raspberry Pi · Mac mini · NAS · Firewalla · UniFi · Apple Home · Philips Hue
 
 ## What I'm Learning
 
