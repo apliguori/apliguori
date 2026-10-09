@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Anthony 👋 — automating, self-hosting, building and breaking things" width="100%">
+  <img src="./assets/header-v2.svg" alt="Hi, I'm Anthony 👋 — automating, self-hosting, building and breaking things" width="100%">
 </p>
 
 ### 🧰 What I'm into
